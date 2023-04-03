@@ -21,7 +21,7 @@
     </a>
 </p>
 
-Wagtail is an open source content management system built on Django, with a strong community and commercial support. It's focused on user experience, and offers precise control for designers and developers.
+Wagtail is an open-source content management system built on Django, with a strong community and commercial support. It's focused on user experience, and offers precise control for designers and developers.
 
 ![Wagtail screenshot](https://cdn.jsdelivr.net/gh/wagtail/wagtail@main/.github/wagtail-screenshot-with-browser.png)
 
@@ -33,7 +33,7 @@ Wagtail is an open source content management system built on Django, with a stro
 -   Fast out of the box, cache-friendly when you need it
 -   Content API for 'headless' sites with de-coupled front-end
 -   Runs on a Raspberry Pi or a multi-datacenter cloud platform
--   StreamField encourages flexible content without compromising structure
+-   StreamField encourages flexible content without compromising the structure
 -   Powerful, integrated search, using Elasticsearch or PostgreSQL
 -   Excellent support for images and embedded content
 -   Multi-site and multi-language ready
@@ -93,7 +93,7 @@ Wagtail supports:
 
 There is an active community of Wagtail users and developers responding to questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/wagtail). When posting questions, please read Stack Overflow's advice on [how to ask questions](https://stackoverflow.com/help/how-to-ask) and remember to tag your question "wagtail".
 
-For topics and discussions that do not fit Stack Overflow's question and answer format we have a [Slack workspace](https://github.com/wagtail/wagtail/wiki/Slack). Please respect the time and effort of volunteers by not asking the same question in multiple places.
+For topics and discussions that do not fit Stack Overflow's question-and-answer format, we have a [Slack workspace](https://github.com/wagtail/wagtail/wiki/Slack). Please respect the time and effort of volunteers by not asking the same question in multiple places.
 
 [![Join slack community](.github/join-slack-community.png)](https://github.com/wagtail/wagtail/wiki/Slack)
 
@@ -113,7 +113,7 @@ If you want to send an encrypted email (optional), the public key ID for securit
 
 ### 🕒 Release schedule
 
-Feature releases of Wagtail are released every three months. Selected releases are designated as Long Term Support (LTS) releases, and will receive maintenance updates for an extended period to address any security and data-loss related issues. For dates of past and upcoming releases and support periods, see [Release Schedule](https://github.com/wagtail/wagtail/wiki/Release-schedule).
+Feature releases of Wagtail are released every three months. Selected releases are designated as Long Term Support (LTS) releases, and will receive maintenance updates for an extended period to address any security and data-loss-related issues. For dates of past and upcoming releases and support periods, see [Release Schedule](https://github.com/wagtail/wagtail/wiki/Release-schedule).
 
 #### 🕛 Nightly releases
 
@@ -121,7 +121,7 @@ To try out the latest features before a release, we also create builds from `mai
 
 ### 🙋🏽 Contributing
 
-If you're a Python or Django developer, fork the repo and get stuck in! We have several developer focused channels on the [Slack workspace](https://github.com/wagtail/wagtail/wiki/Slack).
+If you're a Python or Django developer, fork the repo and get stuck in! We have several developer-focused channels on the [Slack workspace](https://github.com/wagtail/wagtail/wiki/Slack).
 
 You might like to start by reviewing the [contributing guidelines](https://docs.wagtail.org/en/latest/contributing/index.html) and checking issues with the [good first issue](https://github.com/wagtail/wagtail/labels/good%20first%20issue) label.
 
