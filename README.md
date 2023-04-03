@@ -113,7 +113,7 @@ If you want to send an encrypted email (optional), the public key ID for securit
 
 ### 🕒 Release schedule
 
-Feature releases of Wagtail are released every three months. Selected releases are designated as Long Term Support (LTS) releases, and will receive maintenance updates for an extended period to address any security and data-loss-related issues. For dates of past and upcoming releases and support periods, see [Release Schedule](https://github.com/wagtail/wagtail/wiki/Release-schedule).
+Feature releases of Wagtail are released every three months. Selected releases are designated as Long Term Support (LTS) releases and will receive maintenance updates for an extended period to address any security and data-loss-related issues. For dates of past and upcoming releases and support periods, see [Release Schedule](https://github.com/wagtail/wagtail/wiki/Release-schedule).
 
 #### 🕛 Nightly releases
 
